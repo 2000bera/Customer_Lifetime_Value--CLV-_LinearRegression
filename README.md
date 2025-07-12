@@ -66,8 +66,3 @@ Score: 0.9074936273808444
 
 
 I learnt how to use Python libraries, the language, to understand the dataset more and how to improved the model
-
-## 😥 Challenges
-
-
-Working with converting columns that have object datatype was bit confusing for me since I am still a beginner
