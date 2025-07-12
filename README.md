@@ -33,33 +33,33 @@ Scikit-Learn (for Linear Regression and evaluation)
 
 1. Open the project in GitHub.
    
-2. Click on the notebook in the `notebooks/` folder and go to `Housing_price.ipynb`.
+2. Click on the notebook in the `notebooks/` folder and go to `bank_clv_dataset.ipynb`.
    
 3. Click the **"Open in Colab"** button at the top of the notebook (or use the link below).
 
 Open in Colab:
 
 
-https://colab.research.google.com/drive/1PQ0-kA0Wo8pNLTEgBiwBAhhzZU5SF9m4#scrollTo=YI0C-tEom1B4
+https://colab.research.google.com/drive/1ocX2wNv4KERg-sLJ9HkEwVChQMH9Y9To#scrollTo=sUoTt-z6pJIV
 
   
 ## 🔎 Results
 
-Mean square error: 1242507083253.1592
+Mean square error: 654790.937155668
 
 
-Mean absolute error: 808831.3046101702
+Mean absolute error: 704.8564353153521
 
 
-Root mean square error: 1114678.0177491433
+Root mean square error: 809.1915330474411
 
 
-Score: 0.6192266539196798
+Score: 0.9074936273808444
 
 ## 📟 Visualization
 
 
-<img width="574" height="463" alt="LR2" src="https://github.com/user-attachments/assets/ec2bbbe4-0dac-42ba-99d2-bc52708999b4" />
+<img width="595" height="459" alt="LR3" src="https://github.com/user-attachments/assets/2f7903d8-0a5d-4015-ab11-c793f37ee7b4" />
 
 
 ## 📚 Learnings
