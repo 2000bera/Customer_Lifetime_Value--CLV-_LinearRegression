@@ -3,17 +3,14 @@
 
 ## Project Description:
   
-Predicting house prices based on past prices.
+Estimate how much profit a customer will bring to the bank over time.
 
 ## Dataset
-  
-Title - Housing Price Prediction
  
-Site - https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
+Site - https://github.com/kevilkhadka/Predicting-Customer-Lifetime-Value_CLV?tab=readme-ov-file
 
-Collaborators - HARISH KUMARdatalab (Owner)
  
-Data - Housing
+Data - bank_clv_dataset
 
 ## 🛠 Tools Use and Libraries
 
